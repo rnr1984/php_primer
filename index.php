@@ -10,4 +10,5 @@
     $name= 'Rajeshwari Joshi';
     echo '<h2>My name is: '.$name. '</h2>';
     ?>
+    <button type="button" class="btn btn-primary">click me</button>
   <?php require 'includes/footer.php'?>  
